@@ -3,4 +3,5 @@ dev
 c
 python
 java
+bash
 
