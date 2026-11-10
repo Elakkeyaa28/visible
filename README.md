@@ -1,5 +1,5 @@
 # test visibility!
-languages-
+languages
 - **Python** - Data analysis, automation, and backend development
 - **Java** - Object-oriented programming and application building
 - **C / C++** - Low-level programming and data structures
